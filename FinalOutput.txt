@@ -1,0 +1,1017 @@
+3D Printing	NV:5.0
+ATV Rentals/Tours	PA:5.0|AZ:4.875|NV:4.3333335
+Accessories	PA:4.12|BW:4.0|SC:4.0
+Accountants	SC:5.0|PA:5.0|BW:4.75
+Active Life	IL:4.2045455|PA:4.1707315|NV:4.149951
+Acupuncture	IL:5.0|PA:4.6666665|AZ:4.66129
+Addiction Medicine	AZ:3.5
+Adult	NV:4.5|QC:4.0|NC:4.0
+Adult Education	PA:4.75|WI:4.5|BW:4.0
+Adult Entertainment	NV:3.5608108|QC:3.3235295|AZ:3.28
+Advertising	WI:5.0|NC:4.5|NV:4.4615383
+Afghan	QC:4.25|AZ:4.071429|NV:3.8
+African	MLN:4.5|PA:4.5|EDH:4.35
+Air Duct Cleaning	AZ:4.369565|NV:4.25|NC:3.0
+Airlines	QC:2.8333333|NC:2.357143|NV:2.3529413
+Airport Lounges	EDH:4.0|NV:3.857143|QC:3.5
+Airport Shuttles	IL:4.6666665|WI:4.25|EDH:4.0
+Airport Terminals	NV:4.0|AZ:3.5
+Airports	ON:4.5|PA:4.5|WI:4.0
+Airsoft	AZ:4.0
+Allergists	BW:5.0|NC:4.5|NV:4.125
+Alsatian	BW:3.75
+Amateur Sports Teams	WI:4.1666665|NC:4.1|NV:4.0625
+American (New)	AZ:3.5932887|SC:3.5833333|NV:3.5725
+American (Traditional)	MLN:4.5|BW:3.6|SC:3.4761906
+Amusement Parks	PA:4.071429|EDH:4.0|NC:3.8333333
+Anesthesiologists	NV:2.5|AZ:2.5
+Animal Shelters	SCB:4.5|PA:4.25|AZ:4.102941
+Antiques	BW:4.5|PA:4.236842|EDH:4.2
+Apartments	MLN:5.0|EDH:4.0|QC:3.5
+Appliances	IL:5.0|SC:4.5|WI:3.5
+Appliances & Repair	BW:4.5|IL:4.0|WI:3.9375
+Appraisal Services	AZ:4.8333335|NV:4.0
+Aquarium Services	NV:4.25|AZ:4.1666665|NC:3.0
+Aquariums	NV:4.0833335|PA:4.0|AZ:3.625
+Arabian	IL:4.5|QC:4.1666665|AZ:4.0
+Arcades	BW:5.0|PA:4.142857|QC:4.0
+Archery	NV:4.6666665|AZ:4.5|NC:4.5
+Architects	AZ:3.6
+Argentine	PA:4.5|NV:4.0|EDH:4.0
+Art Classes	PA:5.0|WI:4.5|AZ:4.42
+Art Galleries	IL:4.75|AZ:4.4545455|MLN:4.3333335
+Art Museums	NV:5.0|IL:4.5|QC:4.25
+Art Restoration	AZ:5.0
+Art Schools	IL:4.5|QC:4.5|WI:4.5
+Art Supplies	IL:4.5|NC:4.111111|WI:4.0
+Art Tours	NV:5.0
+Artificial Turf	AZ:4.25
+Arts & Crafts	MLN:4.5|PA:4.1034484|WI:4.054348
+Arts & Entertainment	ELN:4.5|CA:4.5|MLN:4.375
+Asian Fusion	MLN:4.0|EDH:3.764706|NV:3.6942675
+Assisted Living Facilities	AZ:4.75|NV:3.0
+Auction Houses	NV:3.0|AZ:2.9285715|NC:2.5
+Audiologist	NV:4.5|AZ:3.142857|NC:2.5
+Australian	QC:4.5|AZ:3.75
+Austrian	BW:3.0
+Auto Customization	PA:5.0|NC:4.6666665|NV:4.53125
+Auto Detailing	IL:4.8333335|WI:4.375|NV:4.253247
+Auto Glass Services	IL:5.0|WI:4.75|PA:4.7
+Auto Insurance	NV:4.5454545|AZ:4.035714|NC:3.5
+Auto Loan Providers	NV:3.5625|AZ:3.03125|NC:2.75
+Auto Parts & Supplies	PA:4.090909|NV:3.9569535|AZ:3.8849206
+Auto Repair	SC:4.642857|IL:4.175|AZ:4.0728965
+Auto Security	NV:5.0|AZ:5.0
+Auto Upholstery	AZ:4.2777777
+Automotive	SC:3.9761906|IL:3.9594595|AZ:3.8236973
+Awnings	AZ:5.0
+Ayurveda	AZ:5.0|PA:5.0
+Baby Gear & Furniture	MLN:5.0|PA:5.0|EDH:4.5
+Backshop	BW:4.5
+Baden	BW:3.909091
+Badminton	NV:3.25
+Bagels	QC:3.9482758|EDH:3.75|SC:3.6666667
+Bail Bondsmen	AZ:5.0|NV:4.1666665
+Bakeries	RP:5.0|SC:4.375|MLN:4.25
+Bangladeshi	QC:4.0|PA:4.0|EDH:3.25
+Bankruptcy Law	NV:4.4166665|NC:4.25|AZ:4.0833335
+Banks & Credit Unions	WI:3.5714285|TX:3.5|QC:3.25
+Barbeque	MLN:4.0|ON:3.8846154|EDH:3.8125
+Barbers	SC:5.0|IL:4.625|QC:4.5333333
+Barre Classes	AZ:4.75|NC:4.7272725|WI:4.6666665
+Bars	BW:3.8255813|QC:3.6262019|EDH:3.625786
+Bartenders	AZ:4.75|NV:4.5|WI:4.0
+Bartending Schools	NV:4.5|AZ:1.0
+Baseball Fields	PA:4.5|NV:4.0|AZ:4.0
+Basketball Courts	AZ:4.75|WI:3.5
+Basque	QC:4.1666665|AZ:3.75|NC:3.5
+Battery Stores	WI:4.25|NC:4.2|NV:3.875
+Batting Cages	AZ:4.55|NV:4.5
+Bavarian	BW:3.5|RP:3.5
+Beach Equipment Rentals	AZ:5.0
+Beaches	PA:4.5|NC:4.5|WI:4.25
+Beauty & Spas	MLN:4.25|EDH:4.084821|ON:4.076923
+Bed & Breakfast	NV:4.75|WI:4.642857|NC:4.5
+Beer Bar	NV:4.0625|NC:4.0|AZ:3.95
+Beer Garden	RP:4.25|BW:3.607143
+Beer Gardens	IL:4.5|NV:4.0|NC:4.0
+Beer Hall	BW:3.0
+Beer, Wine & Spirits	MLN:4.25|BW:4.214286|SC:4.1
+Belgian	EDH:4.5|WI:3.8333333|PA:3.8333333
+Bespoke Clothing	PA:5.0|NV:4.75|AZ:4.642857
+Beverage Store	BW:3.25
+Bike Rentals	NC:4.5|AZ:4.3055553|QC:4.214286
+Bike Repair/Maintenance	IL:4.8333335|NV:4.678571|PA:4.6
+Bike Sharing	NC:2.5
+Bikes	ON:4.75|PA:4.642857|NC:4.3157897
+Bingo Halls	NV:3.7222223|AZ:3.5
+Bird Shops	AZ:4.25
+Bistros	WI:4.0|AZ:4.0|BW:3.5625
+Blood & Plasma Donation Centers	AZ:3.8888888|NC:3.75|WI:3.5
+Blow Dry/Out Services	NV:4.574468|AZ:4.508929|WI:4.5
+Boat Charters	AZ:4.5833335|EDH:4.5|PA:4.5
+Boat Dealers	PA:4.5|AZ:4.071429|NV:3.75
+Boat Repair	NV:4.5|AZ:3.7222223
+Boat Tours	EDH:4.0
+Boating	WI:4.6666665|QC:4.375|NV:4.1666665
+Body Shops	IL:4.5|EDH:4.5|PA:4.4333334
+Bookkeepers	AZ:5.0
+Books, Mags, Music & Video	SC:4.5|PA:4.231707|BW:4.214286
+Bookstores	PA:4.470588|BW:4.214286|QC:4.1363635
+Boot Camps	PA:4.75|NV:4.742857|NC:4.7222223
+Botanical Gardens	WI:4.75|EDH:4.5|AZ:4.5
+Bowling	IL:4.5|NV:3.6944444|QC:3.5833333
+Boxing	NV:4.7941175|WI:4.5|AZ:4.483871
+Brasseries	NV:4.3333335|NC:4.25|EDH:3.8947368
+Brazilian	TX:4.0|NV:3.8888888|EDH:3.875
+Breakfast & Brunch	MLN:4.5|EDH:3.8703704|PA:3.7666667
+Breweries	SC:4.5|IL:4.5|PA:4.3333335
+Brewing Supplies	NV:4.75|IL:4.5|AZ:4.3333335
+Bridal	QC:4.3333335|EDH:4.1666665|NV:4.0897436
+British	PA:4.5|WI:4.0|AZ:3.95
+Bubble Tea	EDH:4.25|IL:4.0|WI:4.0
+Buddhist Temples	NC:4.75|AZ:4.0|NV:3.5
+Buffets	MLN:4.5|EDH:3.65|NC:3.0370371
+Building Supplies	BW:4.125|RP:4.0|WI:3.9285715
+Burgers	MLN:4.0|EDH:3.548387|AK:3.5
+Burmese	QC:4.0|AZ:4.0|PA:4.0
+Bus Tours	WI:5.0|NC:5.0|NV:3.7
+Buses	IL:4.5|NV:3.5|AZ:3.5
+Business Consulting	AZ:4.875|NV:4.3333335
+Business Law	PA:5.0|NC:5.0|NV:4.6666665
+Butcher	WI:4.75|PA:4.75|BW:4.5
+CPR Classes	NV:4.6666665|AZ:4.6666665|WI:3.5
+CSA	AZ:4.714286|NC:4.5|NV:3.5
+Cabaret	QC:3.5|NV:3.5|AZ:3.0
+Cabinetry	NV:4.2777777|AZ:4.0|WI:2.75
+Cafes	RP:5.0|FIF:4.5|MLN:4.107143
+Cafeteria	NC:4.5|PA:4.0|NV:3.5
+Cajun/Creole	QC:4.0555553|PA:4.0|NV:3.75
+Cambodian	AZ:4.5|PA:4.0|QC:3.9
+Campgrounds	EDH:4.0|WI:4.0|AZ:3.2307692
+Canadian (New)	EDH:4.5|QC:3.6304348|ON:3.5833333
+Candy Stores	WI:4.6666665|ELN:4.5|PA:4.25
+Cannabis Clinics	AZ:4.0185184|NV:3.9285715
+Cannabis Dispensaries	NV:4.5|AZ:4.0
+Cannabis Tours	NV:5.0
+Cantonese	MLN:5.0|NC:4.5|AZ:3.9166667
+Car Auctions	AZ:2.75|NV:2.0
+Car Buyers	AZ:4.142857|NV:4.0
+Car Dealers	ON:4.0|PA:3.875|AZ:3.592965
+Car Rental	AZ:3.0904763|IL:3.0|PA:2.85
+Car Share Services	PA:3.75|NV:3.5|AZ:3.5
+Car Stereo Installation	NV:4.388889|PA:4.3333335|AZ:4.242857
+Car Wash	IL:5.0|BW:4.375|SC:3.75
+Cardio Classes	NV:4.6666665|AZ:4.6666665|PA:4.5
+Cardiologists	WI:3.5|NV:3.2272727|AZ:2.8947368
+Cards & Stationery	IL:4.5|QC:4.25|NV:4.2222223
+Career Counseling	AZ:4.071429|NV:3.6
+Caribbean	QC:4.12|ON:4.0|EDH:4.0
+Caricatures	AZ:5.0|NV:4.75
+Carpenters	NV:5.0|WI:5.0|AZ:4.5
+Carpet Cleaning	SC:5.0|QC:5.0|WI:4.5
+Carpet Installation	AZ:4.375|NC:4.1666665|NV:3.7083333
+Carpeting	PA:4.75|IL:4.5|AZ:4.154762
+Casinos	PA:3.75|EDH:3.5|NV:3.2785387
+Castles	BW:4.5
+Caterers	MLN:5.0|NV:4.23|AZ:4.206897
+Challenge Courses	WI:5.0|NV:4.75|AZ:3.75
+Champagne Bars	BW:4.0|QC:4.0|EDH:3.6666667
+Check Cashing/Pay-day Loans	NV:3.9|EDH:3.0|AZ:2.7857144
+Cheese Shops	PA:4.75|ON:4.5|NV:4.5
+Cheesesteaks	SC:3.5|QC:3.5|WI:3.5
+Chicken Shop	QC:4.0|NV:3.642857|WI:3.5
+Chicken Wings	MLN:4.0|EDH:3.5833333|PA:3.2441862
+Child Care & Day Care	WI:5.0|NC:4.1666665|AZ:3.8979592
+Childbirth Education	AZ:5.0|NC:5.0|NV:4.0
+Childproofing	AZ:5.0
+Children's Clothing	SC:4.5|ON:4.5|IL:4.5
+Children's Museums	PA:5.0|NV:4.5|AZ:4.5
+Chimney Sweeps	AZ:5.0|NC:3.5|NV:3.0
+Chinese	MLN:4.1666665|BW:3.8448277|EDH:3.5705128
+Chiropractors	SC:5.0|WI:4.6666665|PA:4.617647
+Chocolatiers & Shops	SC:4.5|ON:4.5|MLN:4.5
+Choirs	EDH:3.5
+Christmas Markets	EDH:3.5|BW:3.25
+Christmas Trees	AZ:4.25|NV:2.75
+Churches	NC:4.5526314|QC:4.5|NV:4.4722223
+Cinema	IL:5.0|ON:4.3333335|BW:4.1666665
+Climbing	BW:5.0|IL:4.5|QC:4.5
+Clock Repair	NV:4.5|AZ:4.0
+Clowns	NV:4.375
+Cocktail Bars	EDH:4.0227275|NV:3.8701298|QC:3.8369565
+Coffee & Tea	BW:4.0|MLN:3.9375|EDH:3.9308681
+Coffee & Tea Supplies	EDH:4.8333335|BW:4.3333335
+Coffee Roasteries	NV:5.0|AZ:4.5|ON:4.0
+Coffeeshops	AZ:4.0|NC:4.0|NV:3.25
+College Counseling	NV:2.0
+Colleges & Universities	BW:4.75|ON:4.5|IL:4.5
+Colombian	AZ:4.75|WI:4.5|PA:4.5
+Colonics	NV:4.0|AZ:3.75
+Comedy Clubs	BW:5.0|NC:4.25|AZ:4.21875
+Comfort Food	NV:4.0|AZ:3.732143|NC:3.6363637
+Comic Books	QC:4.6|NC:4.6|SC:4.5
+Commercial Real Estate	NV:3.375|AZ:2.357143
+Commercial Truck Dealers	NC:4.0
+Commercial Truck Repair	AZ:5.0|PA:5.0|NV:4.5
+Community Centers	NC:4.5|AZ:4.0|PA:3.5
+Community Gardens	NV:5.0
+Community Service/Non-Profit	MLN:4.5|QC:4.5|PA:4.3
+Computers	IL:3.8333333|AZ:3.6|MLN:3.5
+Contract Law	AZ:5.0
+Contractors	WI:3.9166667|AZ:3.8718488|NV:3.7184465
+Convenience Stores	QC:4.0833335|MLN:3.5|SC:3.4545455
+Cooking Classes	QC:4.5|NV:4.1666665|WI:4.0
+Cooking Schools	BW:5.0|QC:4.75|WI:4.5
+Cosmetic Dentists	IL:5.0|PA:4.375|NV:4.351744
+Cosmetic Surgeons	NC:4.75|AZ:4.241667|NV:4.214286
+Cosmetics & Beauty Supply	BW:4.285714|QC:4.138889|SC:4.0
+Cosmetology Schools	ON:4.0|QC:3.5|AZ:3.325
+Costumes	IL:4.25|QC:4.0|PA:4.0
+Counseling & Mental Health	NC:4.5|NV:3.7391305|AZ:3.4756098
+Countertop Installation	AZ:5.0|NC:4.5|NV:4.3
+Country Clubs	PA:4.25|NV:4.142857|NC:4.142857
+Country Dance Halls	NV:4.0|NC:4.0|AZ:3.0
+Couriers & Delivery Services	NV:3.6363637|MLN:3.5|EDH:3.5
+Courthouses	BW:4.5|NC:4.0|AZ:3.4444444
+Creperies	EDH:4.6666665|ON:4.5|WI:4.5
+Criminal Defense Law	NC:4.75|AZ:4.5689654|NV:4.283784
+Cryotherapy	AZ:5.0|PA:5.0|NV:4.75
+Cuban	AZ:3.8846154|PA:3.8333333|NV:3.6153846
+Cultural Center	PA:4.5|BW:4.25|AZ:4.1
+Cupcakes	EDH:4.5|PA:4.5|AZ:4.268293
+Currency Exchange	QC:4.5|NV:4.5|AZ:1.0
+Curry Sausage	BW:3.625
+Custom Cakes	AZ:5.0|NV:4.75|PA:4.0
+Customized Merchandise	NV:4.25|AZ:3.9166667|NC:3.5
+Cycling Classes	PA:5.0|NV:4.75|WI:4.75
+Czech	QC:4.5|ON:3.5
+DIY Auto Shop	NV:5.0
+DJs	WI:4.75|NV:4.706897|AZ:4.6857142
+DUI Law	NC:5.0|AZ:4.659091|NV:4.3421054
+Damage Restoration	NV:4.5185184|AZ:4.321429|NC:4.1666665
+Dance Clubs	BW:3.625|IL:3.5|NV:3.4390244
+Dance Schools	WI:5.0|EDH:4.75|AZ:4.4565215
+Dance Studios	IL:5.0|WI:4.75|NV:4.5875
+Data Recovery	WI:5.0|NV:4.642857|AZ:3.7941177
+Day Camps	AZ:5.0
+Day Spas	IL:4.3333335|EDH:4.2777777|NV:4.098485
+Debt Relief Services	AZ:5.0|NV:1.5
+Decks & Railing	NV:5.0|AZ:4.5|PA:2.5
+Delicatessen	EDH:4.5|BW:4.25|QC:4.1538463
+Delis	MLN:4.5|FIF:4.5|EDH:4.025862
+Demolition Services	AZ:4.75
+Dental Hygienists	NV:4.5
+Dentists	MLN:5.0|SC:4.3333335|NV:4.2730336
+Department Stores	EDH:3.625|ON:3.6|PA:3.4333334
+Departments of Motor Vehicles	PA:4.5|WI:3.75|NV:3.7
+Dermatologists	BW:4.0|SC:4.0|NC:3.55
+Desserts	SC:4.5|BW:4.1666665|AZ:4.099138
+Diagnostic Imaging	PA:4.5|QC:3.5|WI:3.5
+Diagnostic Services	PA:4.1666665|QC:3.5|WI:3.5
+Dialysis Clinics	AZ:3.0
+Dim Sum	ON:3.75|EDH:3.6|AZ:3.5625
+Diners	EDH:4.0555553|MLN:4.0|PA:3.6842105
+Dinner Theater	AZ:4.0
+Disc Golf	NV:4.25|AZ:4.1|NC:4.0
+Discount Store	BW:4.0|WI:3.5|AZ:3.4252872
+Distilleries	WI:4.75|NC:4.75|NV:4.5
+Dive Bars	BW:4.142857|NC:3.9|NV:3.7325583
+Dive Shops	AZ:4.375
+Diving	PA:5.0|NV:4.8333335|NC:4.5
+Divorce & Family Law	IL:5.0|NV:4.2916665|NC:4.1666665
+Do-It-Yourself Food	NV:4.5|IL:4.25|EDH:4.25
+Doctors	EDH:4.3|BW:3.925|QC:3.8333333
+Dog Parks	WI:4.428571|SC:4.0|NC:4.0
+Dog Walkers	QC:5.0|WI:4.875|PA:4.8
+Dominican	AZ:3.75|NC:3.75
+Donairs	QC:4.5
+Donuts	QC:3.7692308|AZ:3.5151515|NV:3.5136986
+Door Sales/Installation	NC:5.0|AZ:4.25|NV:3.8636363
+Doulas	NV:4.875|AZ:4.428571
+Drive-In Theater	AZ:4.5|NV:4.0
+Drive-Thru Bars	NV:4.0
+Driving Schools	NV:4.375|AZ:4.1363635|WI:4.0
+Drugstores	BW:4.75|EDH:3.8|QC:3.4166667
+Dry Cleaning & Laundry	QC:4.0|SC:3.75|EDH:3.5
+Drywall Installation & Repair	WI:5.0|NV:4.6666665|AZ:4.4411764
+Duty-Free Shops	NV:4.0|AZ:2.5
+Ear Nose & Throat	BW:4.8333335|AZ:3.3888888|NV:3.0
+Eastern European	EDH:4.5
+Editorial Services	AZ:5.0
+Education	BW:4.6|ON:4.3333335|PA:4.2391305
+Educational Services	AZ:4.1666665|NV:4.0|WI:4.0
+Egyptian	PA:4.5|QC:3.75|ON:2.5
+Electricians	WI:4.5|AZ:4.3950615|NC:4.1
+Electronics	EDH:3.7894738|NV:3.1926606|AZ:3.134503
+Electronics Repair	IL:5.0|EDH:5.0|MN:5.0
+Elementary Schools	BW:4.5|NC:4.5|NV:4.0
+Embassy	AZ:2.0
+Embroidery & Crochet	PA:5.0|AZ:4.3076925|NV:4.1153846
+Emergency Pet Hospital	NV:3.6666667
+Emergency Rooms	NV:4.0|AZ:2.9615386
+Empanadas	AZ:4.5|PA:4.5|NC:4.5
+Employment Agencies	QC:5.0|NC:3.0|NV:2.8666666
+Employment Law	PA:5.0|NV:4.75|AZ:4.4
+Endocrinologists	NV:3.3|AZ:2.7307692
+Endodontists	PA:4.75|NC:4.7|NV:4.478261
+Engraving	AZ:5.0|NV:4.6666665|EDH:4.5
+Environmental Testing	AZ:4.5
+Escape Games	IL:5.0|NC:4.9|AZ:4.7727275
+Estate Liquidation	NV:4.25|AZ:2.8333333
+Estate Planning Law	IL:5.0|NC:5.0|NV:4.55
+Ethic Grocery	NV:5.0
+Ethiopian	ON:5.0|EDH:4.5|NC:4.0833335
+Ethnic Food	SC:4.75|PA:4.2727275|WI:4.214286
+Ethnic Grocery	NV:4.5|NC:4.5|BW:4.3333335
+Event Photography	BW:5.0|IL:5.0|WI:5.0
+Event Planning & Services	RP:4.0|NV:3.9104078|EDH:3.7845745
+Eyelash Service	IL:5.0|EDH:5.0|WI:4.8
+Eyewear & Opticians	MLN:4.5|IL:4.1|ON:4.0
+Fabric Stores	PA:5.0|NV:4.2352943|EDH:4.1666665
+Face Painting	AZ:5.0|NV:4.857143
+Falafel	BW:5.0|QC:4.142857|EDH:4.0
+Family Practice	BW:4.5|EDH:4.0|NC:3.4285715
+Farm Equipment Repair	AZ:4.6
+Farmers Market	SC:4.5|IL:4.5|WI:4.4
+Farming Equipment	NC:4.0
+Farms	PA:5.0|NC:5.0|NV:4.0
+Fashion	HAM:4.5|PA:3.8173914|ON:3.75
+Fast Food	NW:4.5|FIF:4.0|MLN:3.8333333
+Fences & Gates	PA:5.0|NV:4.4|AZ:3.8695652
+Feng Shui	NV:5.0|AZ:5.0
+Ferries	BW:4.0
+Fertility	AZ:3.84375|NV:3.4
+Festivals	CA:4.5|QC:4.3636365|BW:4.1666665
+Filipino	PA:4.25|QC:4.0|EDH:4.0
+Financial Advising	NV:4.3|AZ:4.2391305|PA:3.0
+Financial Services	SC:5.0|RP:5.0|IL:4.0
+Fingerprinting	AZ:5.0|NV:4.5
+Fire Departments	NV:4.5|AZ:4.5
+Fire Protection Services	WI:4.5|AZ:4.0|NV:2.5
+Firearm Training	NV:5.0|AZ:5.0|NC:4.0
+Fireplace Services	NV:4.5|AZ:3.9|NC:1.5
+Firewood	NV:4.5|AZ:4.071429
+Fireworks	AZ:5.0|SC:4.25
+First Aid Classes	NV:5.0|AZ:4.785714|NC:4.0
+Fish & Chips	QC:4.0555553|MLN:4.0|IL:4.0
+Fishing	WI:5.0|NV:4.25|QC:3.5
+Fitness & Instruction	NV:4.3651314|SC:4.3333335|AZ:4.321066
+Fitness/Exercise Equipment	NC:4.5|AZ:4.1875|NV:3.75
+Flea Markets	QC:4.0|PA:4.0|NC:3.6666667
+Flight Instruction	NV:4.375|AZ:4.3333335
+Float Spa	AZ:4.5833335
+Flooring	BW:5.0|QC:5.0|IL:4.5
+Florists	BW:4.5|EDH:4.318182|WI:4.1923075
+Flowers	EDH:4.5
+Flowers & Gifts	BW:4.5|HAM:4.5|SC:4.3333335
+Flyboarding	NV:5.0
+Fondue	NV:4.1666665|AZ:4.0|PA:4.0
+Food	RP:5.0|EDH:3.9589906|QC:3.9227908
+Food Banks	NV:5.0|AZ:4.5
+Food Court	PA:4.0|QC:3.75|AZ:3.6111112
+Food Delivery Services	PA:4.3333335|EDH:4.2777777|WI:4.25
+Food Stands	WI:4.625|QC:4.25|AZ:4.111111
+Food Tours	QC:5.0|WI:5.0|NC:5.0
+Food Trucks	NV:4.271605|AZ:4.2521367|NC:4.1538463
+Formal Wear	AZ:3.890625|NV:3.8888888|PA:3.8333333
+Framing	PA:5.0|WI:4.75|AZ:4.519231
+Free Diving	AZ:4.5
+French	MLN:4.75|ON:4.3333335|EDH:4.125
+Fruits & Veggies	WI:4.3|AZ:4.2419353|EDH:4.2
+Fuel Docks	NV:2.5
+Funeral Services & Cemeteries	BW:5.0|QC:5.0|WI:5.0
+Furniture Assembly	NV:5.0|AZ:3.5
+Furniture Rental	AZ:4.0
+Furniture Repair	PA:5.0|AZ:4.5|NC:4.5
+Furniture Reupholstery	PA:5.0|NC:4.875|AZ:4.388889
+Furniture Stores	EDH:3.875|PA:3.7666667|NV:3.5849674
+Game Truck Rental	NV:5.0|AZ:5.0
+Garage Door Services	PA:5.0|AZ:4.6666665|NV:4.5
+Gardeners	AZ:4.0208335|NC:4.0|NV:3.6785715
+Gas & Service Stations	IL:4.1666665|BW:4.0|EDH:4.0
+Gastroenterologist	AZ:3.090909|NV:3.0|NC:2.0
+Gastropubs	BW:4.0|ELN:4.0|AZ:3.7916667
+Gay Bars	BW:4.5|EDH:3.875|NC:3.7
+Gelato	NC:4.4|PA:4.3333335|AZ:4.2586207
+General Dentistry	EDH:5.0|NV:4.2667685|AZ:4.2298245
+General Festivals	BW:4.5
+General Litigation	NV:4.785714|AZ:4.1875
+German	SC:5.0|NC:4.25|IL:4.0
+Gerontologists	NV:3.0
+Gift Shops	SC:5.0|BW:4.5|IL:4.5
+Glass & Mirrors	NC:4.5|AZ:4.306452|NV:4.1153846
+Gluten-Free	ON:4.5|EDH:4.0625|NV:3.96875
+Go Karts	BW:4.5|QC:4.0|AZ:3.8333333
+Gold Buyers	NV:4.3|WI:4.0|NC:4.0
+Golf	ON:4.5|EDH:4.25|IL:4.0
+Golf Cart Rentals	AZ:3.5
+Golf Equipment	AZ:4.03125|NV:3.9166667|NC:3.5
+Golf Equipment Shops	NV:5.0|AZ:4.375
+Golf Lessons	NV:5.0|AZ:4.25|WI:4.0
+Graphic Design	WI:5.0|PA:4.6666665|AZ:4.625
+Greek	RP:4.0|AZ:3.8483145|EDH:3.8
+Grocery	EDH:3.7368422|SC:3.6785715|BW:3.6764705
+Guest Houses	ON:5.0|AZ:5.0|NV:4.75
+Guitar Stores	PA:4.5|WI:4.0|NC:3.75
+Gun/Rifle Ranges	QC:4.5|NV:4.2826085|SC:4.0
+Guns & Ammo	SC:4.5|PA:4.5|WI:4.3333335
+Gutter Services	WI:5.0|PA:4.5|NC:4.5
+Gymnastics	NC:4.8333335|WI:4.3333335|NV:4.0384617
+Gyms	NV:4.141593|PA:4.125|WI:4.0945945
+Hair Extensions	NV:4.5657897|EDH:4.5|AZ:4.462406
+Hair Loss Centers	NV:5.0|AZ:4.75|NC:2.5
+Hair Removal	NV:4.3440366|AZ:4.3095236|WI:4.26
+Hair Salons	MLN:5.0|IL:4.2954545|ON:4.285714
+Hair Stylists	EDH:5.0|IL:4.875|NV:4.681592
+Haitian	QC:4.375
+Halal	PA:4.3333335|ON:4.2|NC:4.0625
+Halotherapy	AZ:5.0
+Handyman	EDH:5.0|NV:4.4886365|AZ:4.2971015
+Hang Gliding	AZ:5.0
+Hardware Stores	IL:5.0|SC:4.25|EDH:4.071429
+Hats	QC:4.0|NV:4.0|AZ:3.5833333
+Haunted Houses	NV:4.0|AZ:3.642857
+Hawaiian	NV:3.7574258|AZ:3.75|NC:3.75
+Head Shops	NV:4.5|AZ:4.5|WI:3.5
+Health & Medical	MLN:5.0|RP:5.0|SC:4.3076925
+Health Markets	WI:4.1666665|AZ:4.125|QC:4.0588236
+Health Retreats	NV:4.5|AZ:3.5
+Hearing Aid Providers	NV:4.4|AZ:4.0
+Heating & Air Conditioning/HVAC	SC:4.5|WI:4.4375|AZ:4.307823
+Henna Artists	WI:5.0|NC:5.0|AZ:4.428571
+Hepatologists	AZ:2.0
+Herbs & Spices	BW:5.0|NV:5.0|WI:4.75
+High Fidelity Audio Equipment	AZ:5.0|NV:4.5|EDH:4.0
+Hiking	QC:5.0|EDH:4.6666665|NC:4.625
+Himalayan/Nepalese	NV:4.25|EDH:4.142857|WI:3.75
+Hindu Temples	AZ:4.1666665|NV:3.5
+Historical Tours	QC:5.0|NV:5.0|NC:4.0
+Hobby Shops	SC:5.0|MLN:5.0|EDH:4.138889
+Holiday Decorations	QC:3.0
+Home & Garden	SC:4.428571|PA:4.0|EDH:3.9625
+Home & Rental Insurance	NV:4.9375|AZ:4.3|NC:3.5
+Home Automation	AZ:4.875|NV:4.65|NC:1.5
+Home Cleaning	QC:5.0|SC:4.8333335|IL:4.25
+Home Decor	MLN:4.3333335|PA:4.21875|EDH:4.071429
+Home Energy Auditors	AZ:5.0
+Home Health Care	AZ:3.3148148|NV:3.3125|NC:1.0
+Home Inspectors	WI:4.75|AZ:4.320513|NV:4.3095236
+Home Network Installation	NV:5.0|AZ:4.5
+Home Organization	AZ:4.5|NV:4.0555553
+Home Services	FL:5.0|MLN:4.0|RP:4.0
+Home Staging	NV:5.0|AZ:4.875
+Home Theatre Installation	NV:4.7941175|AZ:4.5740743|NC:3.9
+Home Window Tinting	NC:4.6666665|NV:4.6086955|AZ:4.4411764
+Homeless Shelters	AZ:5.0
+Homeowner Association	AZ:3.5
+Hong Kong Style Cafe	NV:2.5
+Hookah Bars	PA:4.0|AZ:3.96875|NV:3.7
+Horse Boarding	NV:5.0|AZ:4.0
+Horse Equipment Shops	NV:4.0|AZ:3.6666667
+Horse Racing	NV:4.5|AZ:3.0
+Horseback Riding	SC:4.5|AZ:4.3333335|NV:3.8333333
+Hospice	AZ:4.8|NV:3.9
+Hospitals	EDH:4.2|IL:3.8333333|WI:3.75
+Hostels	QC:3.8846154|EDH:3.5384614|WI:3.5
+Hot Air Balloons	AZ:4.75
+Hot Dogs	EDH:4.25|ON:4.0|PA:3.9166667
+Hot Pot	WI:5.0|NV:3.9166667|ON:3.5
+Hot Tub & Pool	WI:3.75|AZ:3.7470589|NV:3.7142856
+Hotel bar	AZ:3.75
+Hotels	RP:4.0|EDH:3.7110093|ON:3.5625
+Hotels & Travel	RP:4.0|EDH:3.6967213|ON:3.575
+House Sitters	NV:5.0|AZ:5.0
+Hungarian	QC:4.5|PA:4.0|NV:3.5
+Hunting & Fishing Supplies	WI:5.0|PA:4.5
+Hydrotherapy	NV:5.0
+Hypnosis/Hypnotherapy	NV:5.0|AZ:4.625
+IP & Internet Law	AZ:5.0
+IT Services & Computer Repair	MN:5.0|PA:4.3|AZ:4.126866
+IV Hydration	NV:5.0|AZ:5.0
+Ice Cream & Frozen Yogurt	ELN:4.5|EDH:4.1666665|BW:4.1578946
+Immigration Law	AZ:4.8333335|NV:4.75
+Indian	EDH:3.9011629|MLN:3.875|WI:3.840909
+Indonesian	ON:4.0|QC:3.9285715|WI:3.5
+Indoor Playcentre	BW:3.5
+Insulation Installation	AZ:4.25|NV:4.0
+Insurance	RP:5.0|NV:4.075893|IL:4.0
+Interior Design	EDH:4.75|QC:4.0|AZ:3.9561403
+Internal Medicine	NC:3.5|AZ:3.163793|BW:3.0
+International	BW:3.9473684|QC:3.0833333
+Internet Cafes	BW:5.0|ON:4.5|AZ:4.1666665
+Internet Service Providers	NV:2.3285713|AZ:2.2891567|NC:2.2
+Investing	RP:5.0|AZ:3.6111112|NV:2.9166667
+Irish	BW:4.5|QC:3.8|EDH:3.6666667
+Irish Pub	BW:4.125|NC:3.8333333|QC:3.75
+Irrigation	AZ:4.211111|NV:4.0384617
+Italian	ELN:4.0|RP:3.8333333|EDH:3.7580645
+Japanese	MLN:4.5|NV:3.7541254|QC:3.7064517
+Jazz & Blues	BW:4.0|WI:4.0|QC:3.9375
+Jet Skis	NV:4.5|AZ:4.5
+Jewelry	MLN:4.75|PA:4.2115383|IL:4.125
+Jewelry Repair	IL:5.0|WI:5.0|NC:4.571429
+Juice Bars & Smoothies	MLN:4.5|PA:4.214286|SC:4.0
+Junk Removal & Hauling	AZ:4.24|NC:4.1666665|PA:4.0
+Karaoke	NC:3.9166667|WI:3.75|NV:3.7021277
+Kebab	BW:3.6527777
+Keys & Locksmiths	NC:4.625|PA:4.3333335|AZ:4.2764707
+Kids Activities	NV:4.423077|BW:4.375|WI:4.0
+Kitchen & Bath	BW:4.5|SC:4.5|EDH:4.5
+Knife Sharpening	NV:5.0|AZ:4.75
+Knitting Supplies	EDH:4.25|QC:4.0|PA:4.0
+Kombucha	PA:4.5
+Korean	NV:3.7789474|QC:3.755319|EDH:3.75
+Kosher	IL:5.0|QC:4.1666665|PA:4.1666665
+Laboratory Testing	NC:4.5|PA:3.75|NV:3.06
+Lactation Services	NV:5.0|AZ:4.75|NC:4.0
+Lakes	WI:4.5|AZ:4.388889|NV:4.1666665
+Landmarks & Historical Buildings	PA:4.45|WI:4.4|MLN:4.3333335
+Landscape Architects	AZ:3.945946|NV:3.4444444|WI:2.5
+Landscaping	AZ:3.8259912|NV:3.7717392|NC:3.5
+Language Schools	NV:5.0|AZ:4.3333335|QC:4.0
+Laotian	NV:4.5|AZ:4.25|WI:4.0
+Laser Eye Surgery/Lasik	WI:5.0|NV:3.8529413|AZ:3.75
+Laser Hair Removal	SC:5.0|QC:4.5|EDH:4.5
+Laser Tag	NV:4.125|AZ:4.0|BW:3.5
+Latin American	ON:4.25|IL:4.0|PA:3.9583333
+Lawyers	IL:5.0|NV:4.36036|AZ:4.3290596
+Leather Goods	PA:5.0|NC:4.125|NV:4.097826
+Lebanese	WI:4.5|NC:4.5|NV:4.1
+Legal Services	NV:4.5|AZ:4.4615383|NC:4.25
+Leisure Centers	QC:5.0|PA:4.5|NV:4.25
+Libraries	BW:4.6666665|PA:4.5|QC:4.4
+Lice Services	NV:5.0|AZ:4.75
+Life Coach	PA:5.0|NV:4.8461537|AZ:4.82
+Life Insurance	NV:5.0|AZ:4.318182|NC:3.5
+Lighting Fixtures & Equipment	EDH:4.0|WI:4.0|AZ:3.9803922
+Limos	WI:5.0|IL:4.75|PA:4.4
+Lingerie	NV:4.015625|QC:4.0|WI:3.8
+Live/Raw Food	NC:4.2|ON:4.0|NV:4.0
+Livestock Feed & Supply	NC:5.0|NV:4.0|WI:4.0
+Local Fish Stores	AZ:4.0|NV:3.5
+Local Flavor	SC:5.0|NC:4.5555553|BW:4.5
+Local Services	MN:5.0|AZ:3.91529|EDH:3.8679245
+Lounges	BW:3.857143|EDH:3.75|NV:3.6890757
+Luggage	BW:5.0|AZ:4.071429|NC:4.0
+Macarons	EDH:4.5|AZ:4.4|NV:4.1666665
+Machine & Tool Rental	AZ:3.9166667|NC:3.0
+Magicians	AZ:4.95|NV:4.6
+Mailbox Centers	NV:4.1|AZ:3.909091
+Makeup Artists	EDH:5.0|PA:5.0|NV:4.5464287
+Malaysian	WI:5.0|AZ:4.5|QC:4.25
+Marinas	AZ:3.7
+Marketing	WI:5.0|NV:4.6617646|NC:4.5
+Martial Arts	BW:5.0|PA:4.75|NV:4.6666665
+Masonry/Concrete	NV:4.09375|AZ:4.012195|PA:3.75
+Mass Media	BW:4.1666665|EDH:3.7857144|NV:3.7714286
+Massage	IL:4.714286|MLN:4.5|SC:4.375
+Massage Schools	NV:3.75|AZ:3.75|QC:3.5
+Massage Therapy	SC:5.0|IL:5.0|NV:4.621951
+Matchmakers	AZ:3.0|NC:2.5|BW:1.5
+Maternity Wear	EDH:4.5|NV:4.0|NC:3.875
+Mattresses	NV:4.08|AZ:4.016667|QC:4.0
+Meat Shops	IL:5.0|EDH:4.409091|PA:4.318182
+Mediators	AZ:5.0
+Medical Cannabis Referrals	AZ:4.0
+Medical Centers	EDH:3.6666667|NC:3.6153846|AZ:3.2899544
+Medical Spas	EDH:5.0|WI:5.0|NC:4.285714
+Medical Supplies	NC:4.0|NV:3.6|AZ:3.5
+Medical Transportation	AZ:1.8333334|NC:1.0
+Meditation Centers	NV:4.8333335|AZ:4.75|WI:4.0
+Mediterranean	SC:4.5|MLN:4.5|BW:4.2391305
+Men's Clothing	ON:4.5|PA:3.8214285|NV:3.788703
+Men's Hair Salons	NC:4.5625|IL:4.5|PA:4.5
+Metal Fabricators	AZ:4.785714|NV:4.5
+Mexican	MLN:4.0|EDH:3.6|QC:3.56875
+Middle Eastern	BW:4.5|MLN:4.5|EDH:4.0
+Middle Schools & High Schools	BW:4.5|EDH:4.5|NV:3.8461537
+Midwives	NV:4.5|PA:4.5|AZ:4.236842
+Mini Golf	ON:4.5|QC:4.0|WI:4.0
+Mobile Dent Repair	NV:5.0|NC:5.0|AZ:4.8125
+Mobile Home Parks	AZ:4.0
+Mobile Phone Accessories	NV:3.4545455|AZ:3.409091|NC:3.3333333
+Mobile Phone Repair	MN:5.0|WI:4.5|PA:4.5
+Mobile Phones	MLN:3.25|BW:3.1666667|NV:3.072519
+Modern European	NV:4.25|ON:4.125|EDH:4.0208335
+Mongolian	EDH:4.0|NV:3.8333333|AZ:3.5769231
+Montessori Schools	AZ:5.0
+Moroccan	AZ:4.3333335|BW:4.0|NV:4.0
+Mortgage Brokers	FL:5.0|WI:3.8125|AZ:3.2477064
+Mosques	AZ:3.5
+Motorcycle Dealers	QC:4.1666665|WI:4.0|NC:3.8
+Motorcycle Gear	PA:5.0|NV:4.4166665|AZ:4.125
+Motorcycle Rental	PA:5.0|NV:4.05|AZ:3.5
+Motorcycle Repair	NC:4.25|AZ:4.245098|NV:3.9464285
+Motorsport Vehicle Dealers	NV:3.5|AZ:2.75
+Motorsport Vehicle Repairs	AZ:3.1666667
+Mountain Biking	PA:5.0|NV:4.5|AZ:4.5
+Movers	WI:4.2777777|NC:3.9705882|PA:3.9545455
+Museums	ON:5.0|BW:4.5|MLN:4.5
+Music & DVDs	IL:4.25|WI:4.111111|QC:4.0
+Music Production Services	NV:5.0
+Music Venues	ELN:4.5|BW:4.0|QC:3.8939395
+Musical Instrument Services	WI:4.5|PA:4.5|NC:4.1666665
+Musical Instruments & Teachers	MLN:5.0|NV:4.58|BW:4.5
+Musicians	AZ:4.8333335|QC:4.5|NV:4.3333335
+Nail Salons	BW:4.5|ON:4.25|NV:3.7834783
+Nail Technicians	NV:4.5|AZ:4.1666665
+Nanny Services	NV:4.8333335|AZ:4.625
+Naturopathic/Holistic	NC:5.0|NV:4.5238094|BW:4.5
+Neurologist	BW:4.5|NV:2.8636363|AZ:2.8529413
+Neurotologists	NV:3.5
+New Mexican Cuisine	NV:4.0|AZ:3.9375
+Newspapers & Magazines	AZ:4.0|PA:4.0|ON:3.75
+Nightlife	BW:3.7699115|ELN:3.6666667|QC:3.6129665
+Noodles	NC:3.625|AZ:3.5769231|PA:3.5
+Notaries	NC:3.764706|PA:3.7|NV:3.4779413
+Nurse Practitioner	NV:4.0|AZ:2.5
+Nurseries & Gardening	SC:5.0|BW:4.5|IL:4.5
+Nursing Schools	AZ:4.0
+Nutritionists	EDH:5.0|WI:5.0|PA:4.8333335
+Observatories	WI:5.0|NC:4.5|PA:4.5
+Obstetricians & Gynecologists	PA:4.3|BW:4.0|NC:3.5588236
+Occupational Therapy	NC:5.0|NV:3.625|AZ:3.5714285
+Office Cleaning	BW:5.0|QC:5.0|SC:4.5
+Office Equipment	BW:3.5|NV:3.35|WI:3.3333333
+Officiants	NV:4.590909|AZ:4.0833335
+Oil Change Stations	SC:4.5|IL:3.9166667|NV:3.7979453
+Olive Oil	NV:5.0|AZ:4.7
+Oncologist	NV:4.1|AZ:2.857143
+Opera & Ballet	NV:5.0|PA:4.5|AZ:4.0
+Ophthalmologists	AZ:3.5566037|BW:3.5|NV:3.4
+Optometrists	EDH:4.3333335|IL:4.0|QC:4.0
+Oral Surgeons	NC:4.5|NV:4.3369565|WI:4.3333335
+Organic Stores	EDH:4.5|NV:4.111111|QC:4.076923
+Oriental	BW:3.0
+Orthodontists	SC:5.0|EDH:4.5|NV:4.3161764
+Orthopedists	BW:3.5|NV:3.2285714|AZ:2.8962264
+Orthotics	NC:5.0|NV:4.0|AZ:3.3461537
+Osteopathic Physicians	EDH:5.0|NV:3.5|NC:3.0
+Outdoor Furniture Stores	AZ:4.071429|NV:3.625
+Outdoor Gear	BW:4.75|PA:4.1666665|IL:4.0
+Outlet Stores	BW:4.5|QC:4.5|AZ:3.5222223
+Oxygen Bars	NV:4.125
+Paddleboarding	NV:5.0|WI:4.75|AZ:4.285714
+Pain Management	AZ:4.375|NV:4.071429
+Paint & Sip	WI:5.0|PA:4.75|AZ:4.53125
+Paint Stores	AZ:3.5833333|NV:3.357143|NC:3.25
+Paint-Your-Own Pottery	WI:4.5|NV:4.0|AZ:3.9444444
+Paintball	AZ:4.2083335|NV:4.125|QC:4.0
+Painters	SC:5.0|WI:4.75|AZ:4.5277777
+Pakistani	EDH:3.8095238|MLN:3.75|ON:3.6666667
+Palatine	RP:4.0
+Parenting Classes	NV:4.5
+Parking	NV:4.25|EDH:4.0|QC:3.5
+Parks	BW:4.5|IL:4.4|QC:4.3653846
+Party & Event Planning	EDH:4.75|NV:4.467213|PA:4.3636365
+Party Bike Rentals	AZ:5.0|PA:5.0
+Party Bus Rentals	NC:4.25|AZ:4.2|NV:4.0833335
+Party Characters	NV:5.0|AZ:5.0
+Party Equipment Rentals	NV:4.519231|AZ:4.326087|WI:4.25
+Party Supplies	IL:4.5|QC:4.25|EDH:4.25
+Passport & Visa Services	AZ:3.5
+Pasta Shops	NC:4.5|AZ:4.3333335|WI:4.0
+Patio Coverings	AZ:4.75|NV:4.3333335
+Patisserie/Cake Shop	RP:5.0|QC:4.5|NV:4.5
+Pawn Shops	NC:3.75|AZ:3.5138888|WI:3.5
+Payroll Services	PA:5.0|AZ:4.5833335|NV:4.25
+Pediatric Dentists	AZ:4.139785|NC:4.125|NV:4.1041665
+Pediatricians	AZ:3.5430107|NC:3.4|NV:3.1754386
+Pedicabs	AZ:4.0
+Performing Arts	SC:5.0|IL:4.5|ELN:4.5
+Perfume	BW:3.5
+Periodontists	NV:4.3125|AZ:4.236842|NC:3.75
+Permanent Makeup	EDH:5.0|WI:5.0|NV:4.709677
+Persian/Iranian	ON:4.5|WI:4.25|QC:3.8888888
+Personal Assistants	NV:5.0|AZ:4.125
+Personal Chefs	IL:5.0|WI:5.0|NV:4.928571
+Personal Injury Law	NV:4.695652|AZ:4.6666665|NC:4.25
+Personal Shopping	NV:4.5|EDH:4.0|AZ:3.75
+Peruvian	NC:4.181818|QC:4.107143|NV:4.05
+Pest Control	PA:5.0|AZ:4.4602647|NV:4.329114
+Pet Adoption	PA:4.5|NC:4.3333335|AZ:3.8333333
+Pet Boarding/Pet Sitting	SC:5.0|PA:4.5666666|WI:4.388889
+Pet Breeders	AZ:4.5
+Pet Cremation Services	NV:5.0
+Pet Groomers	SC:5.0|IL:5.0|PA:4.4
+Pet Hospice	WI:5.0
+Pet Photography	NV:5.0
+Pet Services	SC:5.0|PA:4.537037|IL:4.4
+Pet Stores	SC:4.5|QC:4.3|BW:4.25
+Pet Training	IL:4.75|PA:4.1|WI:4.0
+Pets	SCB:4.5|IL:4.3076925|WI:4.25
+Pharmacy	RP:5.0|BW:4.125|QC:3.5
+Photo Booth Rentals	IL:5.0|PA:5.0|NC:5.0
+Photographers	BW:5.0|IL:5.0|WI:5.0
+Photography Stores & Services	IL:5.0|WI:4.3333335|PA:3.875
+Physical Therapy	PA:5.0|NC:4.875|BW:4.5
+Piano Bars	NV:4.0|AZ:3.75|WI:3.5
+Piano Services	NC:5.0|NV:4.5|AZ:4.3
+Piano Stores	WI:4.5
+Pick Your Own Farms	NC:5.0|NV:4.0|AZ:3.5
+Piercing	IL:4.75|NV:4.621212|WI:4.6
+Pilates	AZ:4.7115383|NC:4.7083335|EDH:4.5
+Pita	AZ:3.0
+Pizza	RP:3.75|EDH:3.67|MLN:3.625
+Placenta Encapsulations	NV:5.0|AZ:5.0
+Planetarium	AZ:4.5|QC:3.0|NV:3.0
+Playgrounds	BW:4.5|PA:4.4166665|WI:4.25
+Plumbing	IL:4.5|AZ:4.188073|NV:4.1132073
+Plus Size Fashion	WI:5.0|AZ:4.0|NV:3.7307692
+Podiatrists	BW:5.0|EDH:4.5|NV:4.0625
+Poke	AZ:4.5|NV:4.2222223
+Pole Dancing Classes	AZ:5.0|NV:4.8333335|PA:4.5
+Police Departments	BW:5.0|NC:4.0|NV:3.0
+Polish	NV:5.0|NC:4.5|ON:4.25
+Pool & Billiards	AZ:4.4166665|NV:4.375|NC:2.0
+Pool & Hot Tub Service	AZ:4.1853933|NV:3.942857
+Pool Cleaners	NC:5.0|AZ:4.1190476|NV:3.9433963
+Pool Halls	WI:4.25|NC:4.125|IL:3.8333333
+Pop-up Shops	NC:4.25|AZ:2.0
+Popcorn Shops	SC:5.0|NV:4.5625|AZ:4.5
+Portuguese	BW:4.5|MLN:4.25|ON:4.0
+Post Offices	BW:4.5|EDH:3.3888888|IL:3.25
+Poutineries	NV:4.25|AZ:4.0|QC:3.7037036
+Powder Coating	NV:4.6666665|AZ:4.5
+Prenatal/Perinatal Care	AZ:3.3
+Preschools	AZ:4.028226|NC:4.0|NV:3.935065
+Pressure Washers	NC:4.8|NV:4.65|AZ:4.631579
+Pretzels	PA:4.25|NV:3.375|AZ:3.2727273
+Preventive Medicine	AZ:2.1666667
+Print Media	NV:3.8636363|WI:3.75|EDH:3.7
+Printing Services	BW:4.5|PA:3.8846154|IL:3.875
+Private Investigation	AZ:4.9166665
+Private Tutors	WI:5.0|NV:4.9166665|AZ:4.8125
+Process Servers	AZ:5.0
+Proctologists	NV:5.0|AZ:2.5
+Product Design	AZ:5.0
+Professional Services	IL:5.0|QC:5.0|NV:4.050761
+Professional Sports Teams	QC:4.5|AZ:4.318182|PA:4.1666665
+Propane	AZ:4.5833335|NV:3.6666667
+Property Management	WI:3.25|NV:2.8382354|AZ:2.6058824
+Prosthetics	NV:4.0|AZ:3.1666667
+Prosthodontists	NV:5.0|AZ:4.0
+Psychiatrists	BW:4.5|NV:2.2|AZ:2.1111112
+Psychics & Astrologers	AZ:4.5555553|NV:4.5263157|WI:4.0
+Psychologists	NV:3.0|AZ:2.75
+Public Plazas	BW:3.75
+Public Relations	NV:5.0|AZ:5.0
+Public Services & Government	MLN:4.3333335|BW:4.2727275|PA:3.99
+Public Transportation	NC:3.8125|AZ:3.65|QC:3.6
+Pubs	BW:3.9375|QC:3.7696078|PA:3.6603773
+Puerto Rican	AZ:4.4|NV:4.25|NC:2.5
+Pulmonologist	NV:2.6666667|AZ:2.0
+Pumpkin Patches	NV:3.75
+RV Dealers	AZ:3.94|NV:3.2727273|NC:1.5
+RV Parks	WI:4.0|AZ:3.5625|NV:3.3333333
+RV Rental	AZ:4.0|NV:2.9285715
+RV Repair	NV:4.625|AZ:3.9285715|NC:1.5
+Race Tracks	NC:4.0|AZ:3.7142856|WI:3.5
+Races & Competitions	WI:4.75|IL:4.5|PA:4.5
+Racing Experience	NV:4.6666665
+Radio Stations	IL:4.5|WI:4.5|PA:4.25
+Radiologists	NV:3.1111112|AZ:2.7307692
+Rafting/Kayaking	NV:4.8|AZ:4.571429|WI:4.5
+Ramen	NV:4.0|EDH:4.0|AZ:3.7083333
+Real Estate	MLN:5.0|FL:5.0|EDH:4.25
+Real Estate Agents	WI:5.0|NC:4.785714|AZ:4.446281
+Real Estate Law	PA:5.0|NV:4.5|AZ:4.15625
+Real Estate Photography	NV:5.0|AZ:5.0
+Real Estate Services	IL:5.0|EDH:4.5|AZ:3.9273505
+Recording & Rehearsal Studios	NV:4.8|AZ:4.0625
+Recreation Centers	PA:4.75|QC:4.5|SC:4.0
+Recycling Center	PA:4.5|AZ:3.6666667|IL:3.5
+Refinishing Services	NV:4.75|AZ:4.6666665
+Reflexology	EDH:4.75|NC:4.5|PA:4.5
+Registration Services	NV:4.3125|AZ:3.6153846|NC:3.5
+Rehabilitation Center	NC:5.0|AZ:3.6041667|NV:2.9
+Reiki	WI:5.0|AZ:4.8809524|NV:4.678571
+Religious Organizations	NC:4.571429|NV:4.4402986|QC:4.428571
+Religious Schools	NV:4.8333335|AZ:4.5
+Reptile Shops	NV:4.75
+Resorts	NV:3.3510637|AZ:3.3392856
+Rest Stops	AZ:4.0
+Restaurants	NW:4.5|TX:4.0|MLN:3.9666667
+Retirement Homes	NV:3.642857|AZ:3.6
+Rheumatologists	NV:3.5|AZ:2.3
+Rhinelandian	BW:4.0
+Roadside Assistance	AZ:4.3333335|PA:4.0|NV:3.9444444
+Rock Climbing	NV:4.75|AZ:4.625|NC:4.5
+Rodeo	NV:5.0
+Rolfing	NV:5.0|AZ:5.0|NC:5.0
+Roofing	WI:5.0|AZ:3.9711537|PA:3.3333333
+Rugs	NC:4.75|PA:4.5|SC:4.0
+Russian	ON:4.5|EDH:4.5|NV:4.25
+Salad	EDH:4.5|SC:3.9166667|QC:3.7380953
+Salvadoran	QC:4.1|AZ:4.0454545|ON:4.0
+Sandwiches	MLN:4.5|NW:4.5|BW:4.25
+Saunas	WI:5.0|NV:4.25|BW:3.6666667
+Scandinavian	AZ:4.25|EDH:4.1|NC:4.0
+Scottish	EDH:4.0833335|MLN:3.8
+Screen Printing	IL:5.0|WI:5.0|PA:4.5
+Screen Printing/T-Shirt Printing	IL:5.0|WI:5.0|PA:5.0
+Scuba Diving	PA:5.0|NV:4.8333335|NC:4.5
+Seafood	EDH:4.0576925|MLN:4.0|NV:3.6350212
+Seafood Markets	WI:4.5|QC:4.1363635|EDH:4.090909
+Security Services	NV:3.3333333|NC:3.0|AZ:2.875
+Security Systems	SC:4.0|NV:3.7580645|AZ:3.680851
+Self Storage	PA:4.0|NC:3.9583333|AZ:3.8039215
+Senegalese	QC:4.5
+Septic Services	NV:4.5|AZ:4.5
+Serbo Croatian	BW:3.9
+Session Photography	BW:5.0|IL:5.0|WI:5.0
+Sewing & Alterations	SC:4.5|QC:4.375|NC:4.1346154
+Shades & Blinds	AZ:4.3333335|NV:4.142857|NC:4.0
+Shanghainese	NV:3.625|AZ:3.0
+Shared Office Spaces	NV:4.8|NC:4.5|AZ:4.4
+Shaved Ice	WI:4.5|AZ:4.387931|NV:4.320513
+Shipping Centers	NC:3.5961537|EDH:3.5|WI:3.2272727
+Shoe Repair	PA:4.4375|WI:4.214286|AZ:4.1702127
+Shoe Shine	NV:4.6666665|AZ:4.5|NC:4.5
+Shoe Stores	PA:3.775|IL:3.75|QC:3.7058823
+Shopping	HAM:4.5|SCB:4.0|TX:4.0
+Shopping Centers	NC:3.7173913|BW:3.6666667|AZ:3.49
+Shredding Services	NV:4.3333335|AZ:4.3125
+Shutters	NV:4.5|AZ:4.2941175
+Signmaking	WI:5.0|PA:5.0|AZ:4.1666665
+Singaporean	QC:4.25|NV:4.0|ON:3.5
+Skate Parks	PA:5.0|AZ:3.7857144|NV:3.75
+Skate Shops	NC:5.0|AZ:4.5625|WI:4.5
+Skating Rinks	EDH:4.5|BW:4.0|QC:4.0
+Ski & Snowboard Shops	AZ:4.0|PA:3.0
+Ski Resorts	AZ:4.5|EDH:4.0
+Skilled Nursing	AZ:3.5
+Skin Care	SC:5.0|BW:4.5|EDH:4.5
+Skydiving	NV:4.5|QC:4.5|AZ:4.0
+Sledding	AZ:4.5
+Sleep Specialists	NV:3.5|AZ:3.0
+Slovakian	ON:3.5
+Smog Check Stations	PA:5.0|NC:4.5833335|AZ:4.1875
+Soccer	EDH:4.1|NV:3.7777777|AZ:3.4444444
+Social Clubs	EDH:4.75|IL:4.5|WI:4.5
+Software Development	AZ:4.0|NV:3.25
+Solar Installation	AZ:3.925|NV:3.6190476
+Solar Panel Cleaning	AZ:5.0
+Soul Food	QC:4.75|ON:4.3333335|WI:4.1
+Soup	BW:4.5|SC:4.5|QC:4.125
+Southern	QC:4.0625|ON:4.0|SC:3.8333333
+Souvenir Shops	AZ:4.5|PA:4.5|HAM:4.5
+Spanish	MLN:4.5|NC:4.0|QC:3.96875
+Special Education	QC:5.0|EDH:4.5|AZ:4.1
+Specialty Food	MLN:4.5|SC:4.5|ELN:4.5
+Specialty Schools	BW:5.0|IL:4.5|EDH:4.5
+Speech Therapists	AZ:4.5|NV:3.25
+Spine Surgeons	NV:4.0
+Spiritual Shop	AZ:4.75|QC:4.5|NV:4.5
+Sporting Goods	PA:4.327586|ON:4.1666665|SCB:4.0
+Sports Bars	EDH:3.5714285|NV:3.4255815|SC:3.375
+Sports Clubs	BW:4.25|ON:4.0|WI:4.0
+Sports Medicine	PA:5.0|NC:4.5|EDH:4.3333335
+Sports Psychologists	NV:5.0|AZ:5.0
+Sports Wear	WI:3.7857144|AZ:3.7448978|QC:3.6923077
+Spray Tanning	AZ:4.754237|NV:4.6875|WI:4.25
+Sri Lankan	QC:4.0|WI:4.0
+Stadiums & Arenas	QC:4.25|EDH:4.25|WI:4.2
+Steakhouses	TX:4.0|EDH:3.892857|NV:3.739796
+Street Vendors	PA:4.571429|IL:4.5|EDH:4.5
+Stucco Services	AZ:3.75
+Sugaring	NC:5.0|AZ:4.9|NV:4.875
+Summer Camps	PA:5.0|NV:4.5|AZ:4.35
+Supper Clubs	WI:4.0
+Surf Shop	NV:4.5
+Surfing	NC:4.5|NV:3.5
+Surgeons	NV:4.071429|AZ:3.3636363
+Sushi Bars	MLN:4.5|NV:3.7819383|EDH:3.7222223
+Swimming Lessons/Schools	AZ:4.5|NV:4.3333335|NC:4.3
+Swimming Pools	WI:4.5|BW:4.2083335|IL:4.0
+Swimwear	QC:4.5|PA:4.5|NV:4.1153846
+Swiss Food	BW:4.5
+Synagogues	AZ:4.5|NV:4.1666665|WI:3.5
+Szechuan	WI:5.0|NC:4.5|EDH:4.0
+TV Mounting	AZ:5.0|NV:4.75
+Tabletop Games	WI:5.0|NV:4.6666665|AZ:4.0
+Tai Chi	AZ:4.9|NV:4.3333335|EDH:3.5
+Taiwanese	IL:4.5|QC:3.9|NC:3.8333333
+Talent Agencies	NV:4.8333335|AZ:4.6666665
+Tanning	AZ:4.136646|NV:4.126984|NC:4.02
+Tanning Beds	AZ:4.1363635|PA:4.0|NC:3.875
+Tapas Bars	ON:4.0|EDH:4.0|WI:4.0
+Tapas/Small Plates	BW:4.0|EDH:3.95|NC:3.9
+Tasting Classes	QC:4.5|NV:4.5|EDH:4.5
+Tattoo	WI:4.7222223|PA:4.65625|AZ:4.601124
+Tattoo Removal	NC:5.0|NV:4.571429|AZ:4.3157897
+Tax Law	AZ:4.75|NV:3.8333333
+Tax Services	SC:5.0|AZ:4.1875|WI:4.0
+Taxis	PA:4.0|AZ:3.5595238|IL:3.3
+Tea Rooms	WI:4.625|BW:4.5|MLN:4.5
+Teeth Whitening	AZ:4.5|NV:4.3333335
+Telecommunications	WI:4.0|AZ:3.0|NV:2.4
+Television Service Providers	NC:2.357143|NV:2.3235295|AZ:2.25
+Television Stations	NC:3.75|QC:3.5|NV:3.2
+Tennis	PA:4.25|NV:4.125|EDH:4.0
+Teppanyaki	PA:4.0|NC:4.0|NV:3.8333333
+Test Preparation	WI:5.0|NV:4.7777777|AZ:4.0
+Tex-Mex	EDH:3.6111112|QC:3.5416667|ON:3.5
+Thai	ELN:4.0|EDH:3.891892|MLN:3.8333333
+Threading Services	NV:4.4117646|AZ:4.3333335|PA:4.0
+Thrift Stores	IL:4.0|EDH:4.0|QC:3.875
+Ticket Sales	QC:4.0|NV:3.625|AZ:3.0
+Tiki Bars	NV:4.0|EDH:4.0|WI:3.0
+Tiling	AZ:4.6666665|NV:4.3125|WI:4.0
+Tires	SC:5.0|IL:4.0|NV:3.802395
+Title Loans	NV:4.5|AZ:4.375
+Tobacco Shops	IL:4.5|BW:4.25|PA:4.2
+Tours	IL:4.5|AZ:4.4791665|QC:4.4166665
+Towing	PA:3.9285715|WI:3.8|IL:3.75
+Town Car Service	AZ:5.0
+Toy Stores	BW:4.375|PA:4.318182|QC:4.1
+Traditional Chinese Medicine	PA:5.0|WI:4.875|AZ:4.6923075
+Traffic Schools	AZ:3.5
+Traffic Ticketing Law	AZ:4.5|NV:4.25
+Trailer Dealers	AZ:4.0
+Trailer Repair	NV:5.0|AZ:4.375|IL:2.5
+Train Stations	AZ:4.5|QC:4.25|NC:3.8333333
+Trainers	NV:4.400641|PA:4.3421054|AZ:4.223101
+Trains	NV:4.0
+Trampoline Parks	QC:4.5|NV:4.0|NC:4.0
+Translation Services	AZ:4.0
+Transmission Repair	PA:4.875|AZ:4.18|NV:4.0833335
+Transportation	IL:3.7222223|PA:3.625|AZ:3.380137
+Travel Agents	AZ:2.0
+Travel Services	AZ:4.1714287|EDH:3.75|PA:3.75
+Tree Services	WI:5.0|PA:5.0|NV:4.2222223
+Trinidadian	WI:4.0
+Trophy Shops	AZ:4.8333335|NV:4.5
+Truck Rental	NV:3.7045455|AZ:3.5326087|ON:3.5
+Turkish	AZ:4.0833335|PA:4.0625|MLN:4.0
+Tuscan	NV:4.0
+Tutoring Centers	NV:4.8076925|AZ:4.352941|NC:4.0
+Ukrainian	QC:4.5|NV:4.0|AZ:4.0
+Uniforms	NC:4.0|NV:3.7692308|AZ:3.7222223
+University Housing	EDH:4.0|WI:3.5|AZ:3.1875
+Unofficial Yelp Events	NV:5.0|AZ:4.0
+Urgent Care	PA:3.5833333|AZ:3.175|NC:3.0555556
+Urologists	AZ:2.8|NV:2.7727273
+Used Bookstore	BW:5.0|QC:5.0|NV:4.25
+Used, Vintage & Consignment	PA:4.071429|EDH:4.0|IL:3.9
+Utilities	WI:4.5|NC:2.5|NV:1.875
+Uzbek	AZ:3.0|PA:3.0
+Vacation Rental Agents	NV:2.5|AZ:1.0
+Vacation Rentals	AZ:3.1875|NV:3.1818182|NC:1.0
+Valet Services	AZ:4.25|NC:3.0
+Vape Shops	QC:5.0|PA:4.714286|ON:4.5
+Vascular Medicine	AZ:4.25
+Vegan	SC:5.0|PA:4.368421|NV:4.1847825
+Vegetarian	SC:5.0|EDH:4.035714|ON:4.0
+Vehicle Shipping	NV:5.0|AZ:4.1
+Vehicle Wraps	AZ:4.785714|NV:4.7777777
+Venezuelan	NV:4.5|WI:4.5|QC:4.0
+Venues & Event Spaces	SC:4.5|PA:3.9230769|NV:3.9054055
+Veterinarians	WI:4.4864864|IL:4.357143|AZ:4.1572847
+Video Game Stores	WI:4.75|NC:4.3333335|EDH:4.0
+Video/Film Production	NC:5.0|NV:4.571429|AZ:4.4411764
+Videographers	NV:4.6578946|AZ:4.571429
+Videos & Video Game Rental	IL:4.5|ON:4.0|QC:4.0
+Vietnamese	EDH:4.5|BW:4.375|MLN:4.0
+Vinyl Records	NV:4.5833335|BW:4.5|IL:4.5
+Vinyl Siding	AZ:4.5|NV:3.5|NC:2.0
+Visitor Centers	AZ:4.5
+Vitamins & Supplements	NC:4.1|NV:4.0|AZ:3.909091
+Vocational & Technical School	AZ:3.4|NV:3.3333333
+Waffles	NV:4.0|AZ:3.375
+Walk-in Clinics	QC:4.0|NV:3.5|AZ:2.5
+Walking Tours	NV:5.0|EDH:4.5|AZ:4.5
+Watch Repair	PA:5.0|NC:4.7|AZ:4.2222223
+Watches	WI:4.25|AZ:4.1904764|PA:4.1666665
+Water Delivery	NC:5.0|NV:4.0|AZ:3.875
+Water Heater Installation/Repair	NV:4.6363635|AZ:4.5652175|PA:4.5
+Water Parks	NC:4.0|AZ:3.5|NV:3.25
+Water Purification Services	AZ:4.04|NV:3.9615386|WI:3.0
+Water Stores	AZ:4.25|NV:4.2
+Waxing	IL:4.5|NV:4.4409723|AZ:4.326667
+Web Design	WI:5.0|AZ:4.711111|PA:4.5
+Wedding Chapels	AZ:4.5|NV:4.214286
+Wedding Planning	WI:4.625|IL:4.5|AZ:4.4615383
+Weight Loss Centers	WI:5.0|NV:4.11|AZ:4.068182
+Well Drilling	AZ:1.0
+Wheel & Rim Repair	NV:4.2352943|AZ:4.05|WI:3.0
+Whiskey Bars	AZ:4.5|NC:4.5
+Wholesale Stores	MLN:4.5|QC:4.0625|EDH:4.0
+Wholesalers	AZ:5.0
+Wigs	NC:4.75|AZ:3.8888888|NV:3.607143
+Wills, Trusts, & Probates	AZ:4.8333335|NV:3.8333333
+Window Washing	BW:5.0|SC:4.75|NV:4.617647
+Windows Installation	WI:5.0|AZ:4.086207|NV:3.8695652
+Windshield Installation & Repair	IL:5.0|WI:4.6666665|PA:4.5
+Wine Bars	SC:4.5|ON:4.2|BW:4.1666665
+Wine Tasting Classes	QC:4.5
+Wine Tasting Room	NV:5.0|AZ:4.8333335|WI:4.5
+Wine Tours	NV:5.0|WI:5.0|AZ:4.6666665
+Wineries	WI:4.75|PA:4.375|NC:4.25
+Wok	BW:4.5
+Women's Clothing	ON:4.5|PA:3.968085|QC:3.7627118
+Yelp Events	SC:5.0|AZ:4.8461537|NC:4.7727275
+Yoga	SC:5.0|IL:4.7|AZ:4.5581393
+Ziplining	QC:4.5|NV:3.5
+Zoos	BW:4.5|PA:4.25|EDH:4.0
